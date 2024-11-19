@@ -1,2 +1,4 @@
 # Lab1
-DSTI-MLOPS-Day1
+develop-kateryna
+develop-limam
+
